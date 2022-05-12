@@ -1,5 +1,4 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Savaccini</h1>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=gabrielsav&color=blue" alt="Profile views" /> </p>
 
 **About me:**
 
@@ -22,6 +21,7 @@ In my "free time" I study and develop mobile and web projects, in order to expan
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsav&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsav&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrielsav&color=blue" alt="Profile views" /> </p>
 
 
 
