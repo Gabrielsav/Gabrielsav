@@ -8,7 +8,7 @@ In my "free time" I study and develop mobile and web projects, in order to expan
 
 - 💻 I'm  in the way web and mobile developer since 2022 (Yes, im -almost- junior !)
 
-- ⚛️ Html | Css | JavaScript | Learning Git | Learning NodeJS | Learning React
+- ⚛️ Html | Css | JavaScript | Learning Sass | Learning Git | Learning NodeJS | Learning React
 - 🎯 Design technologies i master and apps i use frequently - Adobe Illustrator, Photoshop, After Effects, Premiere | Figma | Whimscal | Notion
 - ✨ I try to help people who are studying programming in my daily life
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabrielsavaccini/), [Instagram](https://www.instagram.com/gabrielsavdeveloper/) or [Twitter](https://twitter.com/gabrielsav_)
