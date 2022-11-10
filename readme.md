@@ -13,7 +13,7 @@ In my "free time" I study and develop mobile and web projects, in order to expan
 - 🎯 Design technologies i master and apps i use frequently: <br><br> - Adobe Illustrator | Photoshop | After Effects | Premiere <br> - Figma | Whimscal | Notion
 - ✨ I try to help people who are studying programming in my daily life
 - 📫 How to reach me? Instagram and LinkedIn below ! <br><br>
-[![Instagram](https://img.shields.io/badge/Instagram-DF0174.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gabrielscode)
+[![Instagram](https://img.shields.io/badge/Instagram-DF0174.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gabes.journey/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsavaccini/)
 
 
@@ -22,10 +22,10 @@ In my "free time" I study and develop mobile and web projects, in order to expan
 * * *
 
 <div align="center"> 
-  <a href="https://github.com/gabrielscode">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielscode&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/gabesjourney">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabesjourney&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscode&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabesjourney&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
   
