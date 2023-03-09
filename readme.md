@@ -1,6 +1,6 @@
 <div>
 
-<img src="https://user-images.githubusercontent.com/98740091/224127400-3a222677-9f76-4e73-b0a7-179abdcabba5.gif" width="150" align="right"><span><span><span>
+<img src=https://user-images.githubusercontent.com/98740091/224134245-9abd2bfa-8e55-4de2-9fbe-9c224201b7c4.gif width="150" align="right"><span><span><span>
 <h1>I'm Gabriel Savaccini</h1>
 
 <div>
